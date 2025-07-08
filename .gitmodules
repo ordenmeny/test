@@ -1,0 +1,6 @@
+[submodule "flask-app"]
+	path = flask-app
+	url = ../flask-app
+[submodule "img-app"]
+	path = img-app
+	url = ../img-app
