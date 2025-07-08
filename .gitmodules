@@ -1,6 +1,6 @@
 [submodule "flask-app"]
 	path = flask-app
-	url = ../flask-app
+	url = https://github.com/ordenmeny/flask-new-app.git
 [submodule "img-app"]
 	path = img-app
-	url = ../img-app
+	url = https://github.com/ordenmeny/img-app.git
